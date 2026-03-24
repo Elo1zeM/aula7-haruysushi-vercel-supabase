@@ -1,3 +1,1 @@
-SUPABASE_URL = https://izjzinhjysveuebcrnsn.supabase.co
-SUPABASE_KEY = sb_publishable_fuhue5y6GttKy44V8x39uw_mPTaG_zI
-PORT = 3000
+
