@@ -1,1 +1,1 @@
-# aula7-haruysushi-vercel-supabase
+# backendaulasupabase
