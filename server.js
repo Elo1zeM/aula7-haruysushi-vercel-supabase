@@ -149,6 +149,8 @@ app.listen(PORTA, () => {
     console.log(`   POST   /api/produtos`);
     console.log(`   PUT    /api/produtos/:id`);
     console.log(`   DELETE /api/produtos/:id`);
+    console.log(`   GET    /api/pedidos`);
+    console.log(`   POST   /api/pedidos`);
     console.log('');
     console.log('💣 Rota de teste de erro:');
     console.log(`   GET    /api/produtos/erro-teste`);
